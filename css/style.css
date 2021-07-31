@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    border: 1px solid rgb(235, 231, 231);
+}
+.header_part{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+margin-top: 10px;
+
+margin-bottom: 10px;
+
+/* border-bottom: 1px solid #e8e3e3; */
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 50%;
+
+float: right;
+
+overflow: hidden;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 30px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 18px;
+    
+text-transform: capitalize;
+    
+color: black;
+}
+.contant-section{
+
+width: 70%;
+
+margin-left: 15%;
+}
+.contant-section h1{
+    color: navy;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 30px;
+}
+.contant-section h2{
+
+color: blue;
+
+font-size: 45px;
+
+text-align: center;
+
+margin-top: 15px;
+}
+.contant-section p{
+
+color: navy;
+
+text-align: center;
+
+/* margin-top: 10px; */
+
+margin: 20px 0;
+}
+.img{
+
+text-align: center;
+}
+.img img{
+
+width: 50%;
+}
+.project_contant{
+
+overflow: hidden;
+}
+.left_contant{
+    
+width: 48%;
+    
+float: left;
+}
+
+
+.left_contant h1{
+
+color: red;
+
+text-align: right;
+}
+.left_contant p{
+
+text-align: right;
+}
+.right_contant{
+
+width: 48%;
+
+float: right;
+}
+.right_contant h1{
+    
+text-align: left;
+}
+.service{
+
+overflow: hidden;
+
+width: 90%;
+
+margin-left: 5%;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+}
+.service_one{
+
+width: 30%;
+
+float: left;
+
+background: peachpuff;
+
+text-align: center;
+
+padding: 30px o;
+
+padding: 30;
+}
+
+.service_one img{
+
+/* text-align: center; */
+
+width: 51%;
+
+padding-top: 10px;
+}
+.service_one h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_one p{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_two{
+
+width: 30%;
+
+float: left;
+
+background: lightblue;
+
+margin-left: 5%;
+
+text-align: center;
+}
+.service_two img{
+
+padding-top: 10px;
+
+width: 4o%;
+
+width: 40%;
+}
+.service_two h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_two p{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_three{
+
+width: 30%;
+
+float: right;
+
+background: lightpink;
+
+text-align: center;
+}
+.service_three img{
+
+padding-top: 10px;
+
+width: 58%;
+}
+.service_three h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_three p{
+    
+text-align: left;
+    
+padding: 10px;
+}
+footer{
+
+background: blue;
+
+text-align: center;
+
+padding: 30px 0;
+}
+footer p{
+
+color: gray;
+
+font-size: 18px;
+}
+footer p span{
+    
+color: white;
+    
+font-size: 20px;
+}
